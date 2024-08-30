@@ -12,19 +12,19 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-context</artifactId>
-      <version>5.3.29</version> <!-- Use the latest stable version -->
+      <version>6.1.12</version> <!-- Use the latest stable version -->
     </dependency>
     <!-- Spring Beans -->
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-beans</artifactId>
-      <version>5.3.29</version>
+      <version>6.1.12</version>
     </dependency>
     <!-- Spring Context Support -->
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-context-support</artifactId>
-      <version>5.3.29</version>
+      <version>6.1.12</version>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
